@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/Lund-Org/cherry-pug-connector.svg?branch=master)](https://travis-ci.com/Lund-Org/cherry-pug-connector)
 
-A plugin to use pug as the html renderer in cherry 🍒
+A plugin to use [pug](https://github.com/pugjs/pug) as the html renderer in cherry 🍒
 
 ## Installation
 
@@ -22,7 +22,7 @@ const Cherry = require('@lund-org/cherry')
 const CherryPugConnector = require('@lund-org/cherry-pug-connector')
 
 const cherry = new Cherry()
-cherry.configure(routes, [], options)
+cherry.configure(routes, [], options) // TO UPDATE WHEN REFACTO IS DONE
 // The following line is the important one
 cherry.registerPlugin(CherryPugConnector)
 cherry.start(options)
@@ -34,4 +34,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://github.com/Lund-Org/cherry-handlebars-connector/blob/master/LICENSE)
+[MIT](https://github.com/Lund-Org/cherry-pug-connector/blob/master/LICENSE)
