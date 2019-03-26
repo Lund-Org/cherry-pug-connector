@@ -1,6 +1,6 @@
 # Cherry Pug Connector
 
-[![Build Status](https://travis-ci.com/Lund-Org/cherry-pug-connector.svg?branch=master)](https://travis-ci.com/Lund-Org/cherry-pug-connector)
+[![Build Status](https://travis-ci.com/Lund-Org/cherry-pug-connector.svg?branch=master)](https://travis-ci.com/Lund-Org/cherry-pug-connector) [![Maintainability](https://api.codeclimate.com/v1/badges/081351282dd136f8fb0f/maintainability)](https://codeclimate.com/github/Lund-Org/cherry-pug-connector/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/081351282dd136f8fb0f/test_coverage)](https://codeclimate.com/github/Lund-Org/cherry-pug-connector/test_coverage)
 
 A plugin to use [pug](https://github.com/pugjs/pug) as the html renderer in cherry 🍒
 
